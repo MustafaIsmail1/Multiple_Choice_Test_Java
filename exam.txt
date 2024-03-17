@@ -1,0 +1,15 @@
+1. What is the most used Programming Language around the world?
+C++
+Java
+Python
+Ruby
+2. Programming Language can be divided into how many number of categories?
+2
+3
+4
+5
+3. How many arguments does the "input" function expect to receive?
+one
+two
+zero
+any number of arguments
